@@ -1,0 +1,9 @@
+{
+  "name": "nextail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/klummy/nextail",
+  "author": "Yekeen Ajeigbe",
+  "license": "MIT",
+  "packageManager": "yarn@3.1.0"
+}
